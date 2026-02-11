@@ -1,0 +1,6 @@
+@WebSiteHotelDiana_HostAddress = http://localhost:5185
+
+GET {{WebSiteHotelDiana_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

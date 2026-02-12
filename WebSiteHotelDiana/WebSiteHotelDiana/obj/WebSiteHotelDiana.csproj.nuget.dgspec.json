@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\osann\\source\\repos\\WebSiteHotelDiana\\WebSiteHotelDiana\\WebSiteHotelDiana.csproj": {}
+    "C:\\Users\\osann\\Documents\\GitHub\\HotelBackend\\WebSiteHotelDiana\\WebSiteHotelDiana\\WebSiteHotelDiana.csproj": {}
   },
   "projects": {
-    "C:\\Users\\osann\\source\\repos\\WebSiteHotelDiana\\WebSiteHotelDiana\\WebSiteHotelDiana.csproj": {
+    "C:\\Users\\osann\\Documents\\GitHub\\HotelBackend\\WebSiteHotelDiana\\WebSiteHotelDiana\\WebSiteHotelDiana.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\osann\\source\\repos\\WebSiteHotelDiana\\WebSiteHotelDiana\\WebSiteHotelDiana.csproj",
+        "projectUniqueName": "C:\\Users\\osann\\Documents\\GitHub\\HotelBackend\\WebSiteHotelDiana\\WebSiteHotelDiana\\WebSiteHotelDiana.csproj",
         "projectName": "WebSiteHotelDiana",
-        "projectPath": "C:\\Users\\osann\\source\\repos\\WebSiteHotelDiana\\WebSiteHotelDiana\\WebSiteHotelDiana.csproj",
+        "projectPath": "C:\\Users\\osann\\Documents\\GitHub\\HotelBackend\\WebSiteHotelDiana\\WebSiteHotelDiana\\WebSiteHotelDiana.csproj",
         "packagesPath": "C:\\Users\\osann\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\osann\\source\\repos\\WebSiteHotelDiana\\WebSiteHotelDiana\\obj\\",
+        "outputPath": "C:\\Users\\osann\\Documents\\GitHub\\HotelBackend\\WebSiteHotelDiana\\WebSiteHotelDiana\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

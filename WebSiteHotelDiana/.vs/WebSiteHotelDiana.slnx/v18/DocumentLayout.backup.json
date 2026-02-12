@@ -1,12 +1,139 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\osann\\source\\repos\\WebSiteHotelDiana\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\osann\\Documents\\GitHub\\HotelBackend\\WebSiteHotelDiana\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ABFC212F-B51E-70BF-7A85-6BF3371E0730}|WebSiteHotelDiana\\WebSiteHotelDiana.csproj|c:\\users\\osann\\documents\\github\\hotelbackend\\websitehoteldiana\\websitehoteldiana\\models\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABFC212F-B51E-70BF-7A85-6BF3371E0730}|WebSiteHotelDiana\\WebSiteHotelDiana.csproj|solutionrelative:websitehoteldiana\\models\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABFC212F-B51E-70BF-7A85-6BF3371E0730}|WebSiteHotelDiana\\WebSiteHotelDiana.csproj|c:\\users\\osann\\documents\\github\\hotelbackend\\websitehoteldiana\\websitehoteldiana\\models\\reservacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABFC212F-B51E-70BF-7A85-6BF3371E0730}|WebSiteHotelDiana\\WebSiteHotelDiana.csproj|solutionrelative:websitehoteldiana\\models\\reservacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABFC212F-B51E-70BF-7A85-6BF3371E0730}|WebSiteHotelDiana\\WebSiteHotelDiana.csproj|c:\\users\\osann\\documents\\github\\hotelbackend\\websitehoteldiana\\websitehoteldiana\\models\\habitacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABFC212F-B51E-70BF-7A85-6BF3371E0730}|WebSiteHotelDiana\\WebSiteHotelDiana.csproj|solutionrelative:websitehoteldiana\\models\\habitacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABFC212F-B51E-70BF-7A85-6BF3371E0730}|WebSiteHotelDiana\\WebSiteHotelDiana.csproj|c:\\users\\osann\\documents\\github\\hotelbackend\\websitehoteldiana\\websitehoteldiana\\models\\preciotemporal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABFC212F-B51E-70BF-7A85-6BF3371E0730}|WebSiteHotelDiana\\WebSiteHotelDiana.csproj|solutionrelative:websitehoteldiana\\models\\preciotemporal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABFC212F-B51E-70BF-7A85-6BF3371E0730}|WebSiteHotelDiana\\WebSiteHotelDiana.csproj|c:\\users\\osann\\documents\\github\\hotelbackend\\websitehoteldiana\\websitehoteldiana\\models\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABFC212F-B51E-70BF-7A85-6BF3371E0730}|WebSiteHotelDiana\\WebSiteHotelDiana.csproj|solutionrelative:websitehoteldiana\\models\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABFC212F-B51E-70BF-7A85-6BF3371E0730}|WebSiteHotelDiana\\WebSiteHotelDiana.csproj|c:\\users\\osann\\documents\\github\\hotelbackend\\websitehoteldiana\\websitehoteldiana\\models\\detallesreservacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABFC212F-B51E-70BF-7A85-6BF3371E0730}|WebSiteHotelDiana\\WebSiteHotelDiana.csproj|solutionrelative:websitehoteldiana\\models\\detallesreservacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABFC212F-B51E-70BF-7A85-6BF3371E0730}|WebSiteHotelDiana\\WebSiteHotelDiana.csproj|c:\\users\\osann\\documents\\github\\hotelbackend\\websitehoteldiana\\websitehoteldiana\\websitehoteldiana.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{ABFC212F-B51E-70BF-7A85-6BF3371E0730}|WebSiteHotelDiana\\WebSiteHotelDiana.csproj|solutionrelative:websitehoteldiana\\websitehoteldiana.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Reservacion.cs",
+              "DocumentMoniker": "C:\\Users\\osann\\Documents\\GitHub\\HotelBackend\\WebSiteHotelDiana\\WebSiteHotelDiana\\Models\\Reservacion.cs",
+              "RelativeDocumentMoniker": "WebSiteHotelDiana\\Models\\Reservacion.cs",
+              "ToolTip": "C:\\Users\\osann\\Documents\\GitHub\\HotelBackend\\WebSiteHotelDiana\\WebSiteHotelDiana\\Models\\Reservacion.cs",
+              "RelativeToolTip": "WebSiteHotelDiana\\Models\\Reservacion.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA1wB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T00:20:16.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Usuarios.cs",
+              "DocumentMoniker": "C:\\Users\\osann\\Documents\\GitHub\\HotelBackend\\WebSiteHotelDiana\\WebSiteHotelDiana\\Models\\Usuarios.cs",
+              "RelativeDocumentMoniker": "WebSiteHotelDiana\\Models\\Usuarios.cs",
+              "ToolTip": "C:\\Users\\osann\\Documents\\GitHub\\HotelBackend\\WebSiteHotelDiana\\WebSiteHotelDiana\\Models\\Usuarios.cs",
+              "RelativeToolTip": "WebSiteHotelDiana\\Models\\Usuarios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T00:26:42.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Habitacion.cs",
+              "DocumentMoniker": "C:\\Users\\osann\\Documents\\GitHub\\HotelBackend\\WebSiteHotelDiana\\WebSiteHotelDiana\\Models\\Habitacion.cs",
+              "RelativeDocumentMoniker": "WebSiteHotelDiana\\Models\\Habitacion.cs",
+              "ToolTip": "C:\\Users\\osann\\Documents\\GitHub\\HotelBackend\\WebSiteHotelDiana\\WebSiteHotelDiana\\Models\\Habitacion.cs",
+              "RelativeToolTip": "WebSiteHotelDiana\\Models\\Habitacion.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwBYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T00:11:23.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PrecioTemporal.cs",
+              "DocumentMoniker": "C:\\Users\\osann\\Documents\\GitHub\\HotelBackend\\WebSiteHotelDiana\\WebSiteHotelDiana\\Models\\PrecioTemporal.cs",
+              "RelativeDocumentMoniker": "WebSiteHotelDiana\\Models\\PrecioTemporal.cs",
+              "ToolTip": "C:\\Users\\osann\\Documents\\GitHub\\HotelBackend\\WebSiteHotelDiana\\WebSiteHotelDiana\\Models\\PrecioTemporal.cs",
+              "RelativeToolTip": "WebSiteHotelDiana\\Models\\PrecioTemporal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T00:17:56.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "C:\\Users\\osann\\Documents\\GitHub\\HotelBackend\\WebSiteHotelDiana\\WebSiteHotelDiana\\Models\\Roles.cs",
+              "RelativeDocumentMoniker": "WebSiteHotelDiana\\Models\\Roles.cs",
+              "ToolTip": "C:\\Users\\osann\\Documents\\GitHub\\HotelBackend\\WebSiteHotelDiana\\WebSiteHotelDiana\\Models\\Roles.cs",
+              "RelativeToolTip": "WebSiteHotelDiana\\Models\\Roles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T00:25:26.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DetallesReservacion.cs",
+              "DocumentMoniker": "C:\\Users\\osann\\Documents\\GitHub\\HotelBackend\\WebSiteHotelDiana\\WebSiteHotelDiana\\Models\\DetallesReservacion.cs",
+              "RelativeDocumentMoniker": "WebSiteHotelDiana\\Models\\DetallesReservacion.cs",
+              "ToolTip": "C:\\Users\\osann\\Documents\\GitHub\\HotelBackend\\WebSiteHotelDiana\\WebSiteHotelDiana\\Models\\DetallesReservacion.cs",
+              "RelativeToolTip": "WebSiteHotelDiana\\Models\\DetallesReservacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T23:53:09.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WebSiteHotelDiana",
+              "DocumentMoniker": "C:\\Users\\osann\\Documents\\GitHub\\HotelBackend\\WebSiteHotelDiana\\WebSiteHotelDiana\\WebSiteHotelDiana.csproj",
+              "RelativeDocumentMoniker": "WebSiteHotelDiana\\WebSiteHotelDiana.csproj",
+              "ToolTip": "C:\\Users\\osann\\Documents\\GitHub\\HotelBackend\\WebSiteHotelDiana\\WebSiteHotelDiana\\WebSiteHotelDiana.csproj",
+              "RelativeToolTip": "WebSiteHotelDiana\\WebSiteHotelDiana.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-11T23:44:51.893Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

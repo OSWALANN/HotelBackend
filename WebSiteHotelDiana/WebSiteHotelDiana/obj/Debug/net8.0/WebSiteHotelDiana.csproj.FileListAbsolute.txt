@@ -1,0 +1,9 @@
+C:\Users\osann\Documents\GitHub\HotelBackend\WebSiteHotelDiana\WebSiteHotelDiana\obj\Debug\net8.0\WebSiteHotelDiana.csproj.AssemblyReference.cache
+C:\Users\osann\Documents\GitHub\HotelBackend\WebSiteHotelDiana\WebSiteHotelDiana\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\osann\Documents\GitHub\HotelBackend\WebSiteHotelDiana\WebSiteHotelDiana\obj\Debug\net8.0\WebSiteHotelDiana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osann\Documents\GitHub\HotelBackend\WebSiteHotelDiana\WebSiteHotelDiana\obj\Debug\net8.0\WebSiteHotelDiana.AssemblyInfoInputs.cache
+C:\Users\osann\Documents\GitHub\HotelBackend\WebSiteHotelDiana\WebSiteHotelDiana\obj\Debug\net8.0\WebSiteHotelDiana.AssemblyInfo.cs
+C:\Users\osann\Documents\GitHub\HotelBackend\WebSiteHotelDiana\WebSiteHotelDiana\obj\Debug\net8.0\WebSiteHotelDiana.csproj.CoreCompileInputs.cache
+C:\Users\osann\Documents\GitHub\HotelBackend\WebSiteHotelDiana\WebSiteHotelDiana\obj\Debug\net8.0\WebSiteHotelDiana.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\osann\Documents\GitHub\HotelBackend\WebSiteHotelDiana\WebSiteHotelDiana\obj\Debug\net8.0\WebSiteHotelDiana.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\osann\Documents\GitHub\HotelBackend\WebSiteHotelDiana\WebSiteHotelDiana\obj\Debug\net8.0\WebSiteHotelDiana.sourcelink.json

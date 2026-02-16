@@ -1,6 +1,6 @@
 ﻿namespace WebSiteHotelDiana.Models
 {
-    public class DetallesReservacion
+    public class DetallesReservacionModel
     {
         public int IdDetallesReservacion { get; set; }
         public int IdHabitacion { get; set; }
@@ -11,11 +11,11 @@
         public DateTime FechaFin { get; set; }
         public bool BloqueaInventario { get; set; }
         // Navigation properties
-        /*public virtual Habitacion Habitacion { get; set; } = null!;
-        public virtual DatosDomiciliario DatosDomiciliarios { get; set; } = null!;
-        public virtual ICollection<Documento> Documentos { get; set; }
-            = new List<Documento>();
-        public virtual ICollection<Bitacora> Bitacoras { get; set; }
-            = new List<Bitacora>();*/
+        public virtual HabitacionModel Habitacion { get; set; } = null!;
+
+        public virtual ReservacionModel Reservacion { get; set; } = null!;
+
+        public virtual EstadosOperativosHabitacionModel EstadosOperativosHabitacion { get; set; } = null!;
+
     }
 }

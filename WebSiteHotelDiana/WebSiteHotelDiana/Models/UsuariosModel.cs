@@ -2,7 +2,7 @@
 
 namespace WebSiteHotelDiana.Models
 {
-    public class Usuarios
+    public class UsuariosModel
     {
         public int IdUsuario { get; set; }
          public string Nombre { get; set; }
@@ -11,8 +11,14 @@ namespace WebSiteHotelDiana.Models
 
         public string CorreoElectronico { get; set; }
 
-        public string Contrasenia { get; set; }
+        public string PasswordHash { get; set; }
 
         public int IdRoles { get; set; }
+
+        public virtual RolesModel Roles { get; set; } = null!;
+
+        public virtual ICollection<ReservacionModel> Reservacion { get; set; } = new List<ReservacionModel>();
+
+
     }
 }

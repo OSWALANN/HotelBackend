@@ -2,10 +2,12 @@
 
 namespace WebSiteHotelDiana.Models
 {
-    public class Roles
+    public class RolesModel
     {
         public int IdRoles { get; set; }
         public string TipoRol { get; set; }
         
+
+        public virtual ICollection<UsuariosModel> Usuarios { get; set; } = new List<UsuariosModel>();
     }
 }
